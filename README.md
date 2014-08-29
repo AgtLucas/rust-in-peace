@@ -1,4 +1,4 @@
-rust-in-peace
+Rust in Peace!
 =============
 
 Playing with Rust Lang
